@@ -56,7 +56,7 @@ From your command line, first clone Simplefolio:
 $ git clone https://github.com/cobidev/gatsby-simplefolio
 
 # Go into the repository
-$ cd gatsby-simplefolio
+$ cd begoodproject
 
 # Remove current origin repository
 $ git remote remove origin
