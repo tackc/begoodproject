@@ -45,7 +45,7 @@ const About = () => {
                   {paragraphTwo ||
                     'Formed with a challenge to everyone to do a single act of kindness everyday to anyone, from the people you know to random stranger you meet. Share your what you did today so that others may follow. Wherever you may be.'}
                 </p>
-                {resume && (
+                {/* {resume && (
                   <span className="d-flex mt-3">
                     <a
                       target="_blank"
@@ -56,7 +56,7 @@ const About = () => {
                       Resume
                     </a>
                   </span>
-                )}
+                )} */}
               </div>
             </Fade>
           </Col>
